@@ -1,5 +1,5 @@
 # IBM-Stock-Market
-Developed an interactive Power BI dashboard for analyzing the 2022 to 2024 IBM stock market
+Interactive Power BI Dashboard: Analyzing IBM Stock Market (2022-2024)
 
 Please find the link to interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjEwYTYxMDMtMGE2NS00ZjJlLTg1OTAtNWU3MTZjNDBkYzI4IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D
 
